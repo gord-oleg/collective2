@@ -56,3 +56,16 @@ section {
 	border-top: 1px solid transparent;
 	border-bottom: 1px solid transparent;
 }
+.button {
+	font-size: 20px;
+	line-height: 24px;
+	text-align: center;
+}
+.button a {
+	display: inline-block;
+	padding: 6px 44px;
+	color: #fff;
+	text-decoration: none;
+	background: #000983;
+	border-radius: 10px;
+}
